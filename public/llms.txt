@@ -1,0 +1,53 @@
+# קל לאשר הגעה — Generative Engine Optimization Map
+
+> A אירועים וחתונות business.
+
+---
+
+## Pages
+
+### Home
+https://-8daf9565.zappy5.app
+
+### How It Works
+https://-8daf9565.zappy5.app/how-it-works
+
+### Pricing
+https://-8daf9565.zappy5.app/pricing
+
+### Contact
+https://-8daf9565.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-8daf9565.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-8daf9565.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-8daf9565.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קל לאשר הגעה
+קל לאשר הגעה is a business in the אירועים וחתונות industry.
+
+## Target Audience
+מארגני אירועים וחתונות
+
+## Industry
+אירועים וחתונות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-8daf9565.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-8daf9565.zappy5.app/robots.txt
